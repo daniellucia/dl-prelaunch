@@ -1,0 +1,156 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Prelaunch\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-12-29 12:36+0000\n"
+"PO-Revision-Date: 2024-12-29 12:39+0000\n"
+"Last-Translator: \n"
+"Language-Team: Español\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.14; wp-6.7.1\n"
+"X-Domain: dl-prelaunch"
+
+#: src/Utils/Favicon.php:40 src/Utils/H.php:50 src/Utils/HashLinks.php:39
+#: src/Utils/Links.php:35 src/Utils/MetaDescription.php:39
+#: src/Utils/MetaTitle.php:39 src/Utils/Robots.php:40 src/Utils/Sitemap.php:40
+msgid "--"
+msgstr "--"
+
+#: src/Editor.php:55
+msgid "All changes have been saved."
+msgstr "Se han guardado todos los cambios."
+
+#. Author of the plugin
+msgid "Daniel Lucia"
+msgstr "Daniel Lucia"
+
+#: src/Utils/Debug.php:24
+msgid "Debug"
+msgstr "Debug"
+
+#: src/Editor.php:54
+msgid "Error saving"
+msgstr "Erro guardando"
+
+#: src/Utils/Favicon.php:37 src/Utils/Robots.php:37 src/Utils/Sitemap.php:37
+msgid "Exists"
+msgstr "Existe"
+
+#: src/Utils/Favicon.php:25
+msgid "favicon"
+msgstr "favicon"
+
+#: src/Editor.php:134 src/Editor.php:149
+msgid "Form successfully saved."
+msgstr "Formulario guardado correctamente."
+
+#. Author URI of the plugin
+msgid "https://daniellucia.es"
+msgstr "https://daniellucia.es"
+
+#: src/Utils/Noindex.php:35
+msgid "Indexable"
+msgstr "Indexable"
+
+#: src/Utils/Links.php:25
+msgid "Links"
+msgstr "Enlaces"
+
+#: src/Utils/HashLinks.php:25
+msgid "Links #"
+msgstr "Enlaces #"
+
+#: src/Utils/MetaDescription.php:25
+msgid "Meta description"
+msgstr "Meta description"
+
+#: src/Utils/MetaTitle.php:25
+msgid "Meta title"
+msgstr "Meta title"
+
+#: src/Editor.php:109
+msgid "No"
+msgstr "No"
+
+#: src/Utils/Noindex.php:25
+msgid "noindex"
+msgstr "noindex"
+
+#: src/Utils/Favicon.php:35 src/Utils/Robots.php:35 src/Utils/Sitemap.php:35
+msgid "Not exists"
+msgstr "No existe"
+
+#: src/Utils/Noindex.php:37
+msgid "Not indexable"
+msgstr "No indexable"
+
+#: src/Editor.php:56
+msgid "Nothing to save."
+msgstr "Nada que gaurdar"
+
+#: src/Editor.php:57
+msgid "of"
+msgstr "de"
+
+#: src/Utils/HashLinks.php:34 src/Utils/MetaDescription.php:34
+#: src/Utils/MetaTitle.php:34
+msgid "OK"
+msgstr "OK"
+
+#. Description of the plugin
+msgid "Pre-checks for the launching of a website"
+msgstr "Comprobaciones previas al lanzamiento de un sitio web"
+
+#. Name of the plugin
+#: src/Menu.php:18 src/Menu.php:19
+msgid "Prelaunch"
+msgstr "Prelanzamiento"
+
+#: src/Editor.php:69
+msgid "Prelaunch:"
+msgstr "Prelanzamiento:"
+
+#: src/Editor.php:99
+msgid "Read"
+msgstr "Leído"
+
+#: src/Editor.php:81
+msgid "Ready"
+msgstr "Preparado"
+
+#: src/Editor.php:79
+msgid "Reset"
+msgstr "Restablecer"
+
+#: src/Utils/Robots.php:25
+msgid "robots.txt"
+msgstr "robots.txt"
+
+#: src/Editor.php:53
+msgid "Saved"
+msgstr "Guardado"
+
+#: src/Editor.php:52
+msgid "Saving..."
+msgstr "Guardando..."
+
+#: src/Utils/Sitemap.php:25
+msgid "sitemap.xml"
+msgstr "sitemap.xml"
+
+#: src/Editor.php:78
+msgid "Start"
+msgstr "Comenzar"
+
+#: src/Editor.php:97
+msgid "URL"
+msgstr "URL"
+
+#: src/Editor.php:109
+msgid "Yes"
+msgstr "Sí"

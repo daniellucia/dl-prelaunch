@@ -1,0 +1,13 @@
+{
+    "name": "daniel-lucia/dl-prelaunch",
+    "description": "Pre-checks for the launching of a website",
+    "type": "wordpress-plugin",
+    "autoload": {
+      "psr-4": {
+        "DLPL\\Prelaunch\\": "src/"
+      }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^7.9"
+    }
+}
